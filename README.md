@@ -66,7 +66,7 @@
 
 AI Engineer Professional is a knowledge platform offering guides, books, and resources for AI engineering, data science, and business strategy. It provides curated content, practical tutorials, and community-driven insights to help professionals build, scale, and lead AI-driven initiatives across organizations. The platform emphasizes research-backed guidance, transparent discussion of differing viewpoints, and actionable advice for developing AI systems that ship.
 
-**Areas:** Company · AI · Engineering · Guides · Knowledge
+**Areas:** Company · Artificial Intelligence · Engineering · Guides · Knowledge
 
 ## aiengineerprofessional-com on APIs.io
 
@@ -81,6 +81,12 @@ Everything profiled for aiengineerprofessional-com is published on APIs.io rathe
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [aiengineerprofessional-com-mcp.yml](https://apis.io/servers/aiengineerprofessional-com/aiengineerprofessional-com-mcp-yml/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -91,7 +97,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aiengineerprofessional Com Domain Security](https://apis.io/security/aiengineerprofessional-com/aiengineerprofessional-com-domain-security/)
+- [aiengineerprofessional-com Domain Security](https://apis.io/security/aiengineerprofessional-com/aiengineerprofessional-com-domain-security/)
 
 ## Where to find this API
 
@@ -106,16 +112,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 35.8** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 30.9** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 75.0 |
 | Contract quality | 44.1 |
-| Contract governance | 79.1 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 21.4 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
 **Agent readiness 18.5** — agent-aware
 
@@ -142,8 +148,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiengineerprofessional-com/](https://apis.io/providers/aiengineerprofessional-com/).
 
